@@ -1,6 +1,6 @@
 # BioHack Academy Github page template
 
-Using this template, you will have your documentation site up and running in no time!
+After building and using your lab, the third and most crucial step in becoming a biohacker is sharing your experience with others. For that you'll need a documentation site. Using this template, you will have that site up and running in no time in your own GitHub account!
 
 ## Quick Start
 
@@ -8,23 +8,23 @@ Using this template, you will have your documentation site up and running in no 
 
 Fork this repo, by clicking the "Fork" button on the top right of this page.
 
-Go to the settings tab and rename the repository to yourgithubusername.github.io.
+Next, go to the settings tab and rename the repository to yourgithubusername.github.io.
 
 Your documentation site be viewable immediately at <http://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
 ### Step 2) Customize and view your site
 
-Enter your site name, description and url by editing the _config.yml file. 
+Configure your site name, description and url by editing the _config.yml file. 
 
 You can easily turn on Google Analytics tracking, Disqus commenting and social icons here too.
 
-Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <http://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
+Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with Jekyll. Your rebuilt site will be viewable a few seconds later at <http://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon
 
 > There are 3 different ways that you can make changes to your blog's files:
 
 > 1. Edit files within your new username.github.io repository in the browser at GitHub.com (shown below).
 > 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
-> 3. RECOMMENDED: Clone down your repository and make updates locally, then push them to your GitHub repository, using [Github Desktop](https://desktop.github.com/). Here's a great [tutorial](https://www.youtube.com/watch?v=XdhuWDdu-rk).
+> 3. RECOMMENDED: Clone down your repository to your harddrive and make updates locally, then push them to your GitHub repository, using [Github Desktop](https://desktop.github.com/). Here's a great [tutorial](https://www.youtube.com/watch?v=XdhuWDdu-rk).
   
 ### Step 3) Publish your first blog post
 
@@ -32,13 +32,13 @@ Edit `/_posts/2016-2-23-Hello-World.md` to publish your first blog post. This [M
 
 > You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
 
-### Step 4) Change About Pages
+### Step 4) Change the About Pages
 
 Edit `/about.md` to change the information on the About page of your documentation site.
 
 ## Moar!
 
-There is a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. :metal:
+There is a more detailed walkthrough, [**Build A Blog With Jekyll And GitHub Pages**](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) over at the Smashing Magazine website. Check it out if you'd like a more detailed walkthrough and some background on Jekyll. 
 
 It covers:
 
