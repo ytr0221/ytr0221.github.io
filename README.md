@@ -8,7 +8,7 @@ After building and using your lab, the third and most crucial step in becoming a
 
 Fork this repo, by clicking the "Fork" button on the top right of this page.
 
-Next, go to the settings tab and rename the repository to yourgithubusername.github.io.
+Next, go to the settings tab and **rename the repository to yourgithubusername.github.io**.
 
 Your documentation site be viewable immediately at <http://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
