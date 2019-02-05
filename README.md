@@ -8,11 +8,14 @@ After building and using your lab, the third and most crucial step in becoming a
 
 Fork this repo, by clicking the "Fork" button on the top right of this page.
 
-Next, go to the settings tab and **rename the repository to yourgithubusername.github.io**.
+### Step 2) Rename the repository 
+
+Next, go to the settings tab and rename the repository to yourgithubusername.github.io.
+It has to be exactly this, otherwise the site won't build. 
 
 Your documentation site be viewable immediately at <http://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
 
-### Step 2) Customize and view your site
+### Step 3) Customize and view your site
 
 Configure your site name, description and url by editing the _config.yml file. 
 
@@ -26,13 +29,13 @@ Making a change to _config.yml (or any file in your repository) will force GitHu
 > 2. Use a third party GitHub content editor, like [Prose by Development Seed](http://prose.io). It's optimized for use with Jekyll making markdown editing, writing drafts, and uploading images really easy.
 > 3. RECOMMENDED: Clone down your repository to your harddrive and make updates locally, then push them to your GitHub repository, using [Github Desktop](https://desktop.github.com/). Here's a great [tutorial](https://www.youtube.com/watch?v=XdhuWDdu-rk).
   
-### Step 3) Publish your first blog post
+### Step 4) Publish your first blog post
 
 Edit `/_posts/2016-2-23-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
 
 > You can add additional posts in the browser on GitHub.com too! Just hit the + icon in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
 
-### Step 4) Change the About Pages
+### Step 5) Change the About Pages
 
 Edit `/about.md` to change the information on the About page of your documentation site.
 
