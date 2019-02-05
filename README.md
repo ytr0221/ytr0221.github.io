@@ -13,7 +13,7 @@ Fork this repo, by clicking the "Fork" button on the top right of this page.
 Next, go to the settings tab and rename the repository to yourgithubusername.github.io.
 It has to be exactly this, otherwise the site won't build. 
 
-Your documentation site be viewable immediately at <http://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+Your documentation site be viewable immediately at <http://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 3)
 
 ### Step 3) Customize and view your site
 
