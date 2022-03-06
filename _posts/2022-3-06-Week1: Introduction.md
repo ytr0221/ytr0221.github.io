@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Week01: Introduction
 ---
 
 
